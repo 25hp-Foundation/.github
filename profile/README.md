@@ -1,1 +1,1 @@
-![25hp Logo](25hpLogo.png)
+![25hp Logo](25hpLogoGithub.png)

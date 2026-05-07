@@ -1,1 +1,1 @@
-![25hp Logo](25hp Logo.png)
+![25hp Logo]("/25hp Logo.png")
